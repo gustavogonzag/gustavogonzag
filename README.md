@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Gustavo Gonzaga
 Posso e serei muito melhor do que sou!<br><br>Desde pequeno sonhava em trabalhar com tecnologia, diante desse equipamento que nos mostra o mundo chamado Computadores.<br><br>Estudando SISTEMAS DE INFORMAÇÃO na faculdade UNEX (REDE UNIFTC), já realizei diversos projetos desafiadores relevantes para minha evolução onde pude trabalhar com tecnologias como JAVA, JAVASCRIPT, linguagens TYPESCRIPT, ferramentas web como CSS, SASS, HTML, Também trabalhei com dados de banco de dados PostgreSQL, MongoDb, também fui monitor de matérias, participei de ciclos de workshops, apresentei projetos ao público. Me envolvi e participei de tudo que foi proposto.<br><br>  Já participei de um programa de residência em software, fiz diversos cursos voltados para desenvolvimento.<br><br>De família simples, humilde e religiosa, orgulhosa dos meus pais, amante da música, da tecnologia e da arte!<br>Apesar de jovem, tive inúmeras experiências que moldaram o homem que sou hoje!<br>Ambicioso, sonhador, humano e inteligente!<br><br>Programador, Designer, Gamer e Fitness nas horas vagas
 
 
