@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5280ce&height=120&section=header"/>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5280ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gustavo+Gonzaga.;Seja+bem+vindo!)](https://git.io/typing-svg)
-Estudando SISTEMAS DE INFORMAÇÃO na faculdade UNEX (REDE UNIFTC), já realizei diversos projetos desafiadores relevantes para minha evolução onde pude trabalhar com tecnologias como JAVA, JAVASCRIPT, linguagens TYPESCRIPT, ferramentas web como CSS, SASS, HTML, Também trabalhei com dados de banco de dados PostgreSQL, MongoDb, também fui monitor de matérias, participei de ciclos de workshops, apresentei projetos ao público. Me envolvi e participei de tudo que foi proposto.
+Estudando SISTEMAS DE INFORMAÇÃO na faculdade UNEX (REDE UNIFTC), já realizei diversos projetos desafiadores relevantes para minha evolução onde pude trabalhar com tecnologias como JAVA, JAVASCRIPT, TYPESCRIPT, ferramentas web REACT, BOOTSTRAP, TAILWIND, Também trabalhei com dados de banco de dados PostgreSQL, MongoDb, também fui monitor de matérias, participei de ciclos de workshops, apresentei projetos ao público. Me envolvi e participei de tudo que foi proposto.
 
-Já participei de um programa de residência em software, fiz diversos cursos voltados para desenvolvimento.
+Já participei de um programa de residência em software e fiz diversos cursos voltados para desenvolvimento.
 
-Desde pequeno sonhava em trabalhar com tecnologia, diante desse equipamento que nos mostra o mundo chamado Computadores.
-De família simples, humilde e religiosa, orgulhosa dos meus pais, amante da música, da tecnologia e da arte!
+Desde pequeno sonhava em trabalhar com tecnologia, diante desse equipamento que nos mostra o mundo chamado Computador.
+De família simples, humilde e religiosa, orgulho dos meus pais, amante da música, da tecnologia e da arte!
 Apesar de jovem, tive inúmeras experiências que moldaram o homem que sou hoje!
 Ambicioso, sonhador, humano e inteligente!
 
