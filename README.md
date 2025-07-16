@@ -1,17 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5280ce&height=120&section=header"/>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5280ce&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gustavo+Gonzaga.;Seja+bem+vindo!)](https://git.io/typing-svg)
-Estudando SISTEMAS DE INFORMAÇÃO na faculdade UNEX (REDE UNIFTC), já realizei diversos projetos desafiadores relevantes para minha evolução onde pude trabalhar com tecnologias como JAVA, JAVASCRIPT, TYPESCRIPT, ferramentas web REACT, BOOTSTRAP, TAILWIND, Também trabalhei com dados de banco de dados PostgreSQL, MongoDb, também fui monitor de matérias, participei de ciclos de workshops, apresentei projetos ao público. Me envolvi e participei de tudo que foi proposto.
-
-Já participei de um programa de residência em software e fiz diversos cursos voltados para desenvolvimento.
-
-Desde pequeno sonhava em trabalhar com tecnologia, diante desse equipamento que nos mostra o mundo chamado Computador.
-De família simples, humilde e religiosa, orgulho dos meus pais, amante da música, da tecnologia e da arte!
-Apesar de jovem, tive inúmeras experiências que moldaram o homem que sou hoje!
-Ambicioso, sonhador, humano e inteligente!
-
-Programador, Designer, Gamer e Fitness nas horas vagas
-
+Desenvolvedor formado em Sistemas de Informação (UniFTC), com forte atuação em design digital e programação web. Tenho experiência com JavaScript, TypeScript, Java, Node.js, HTML, CSS/SASS, e bancos de dados como PostgreSQL e MongoDB, e conhecimento sólido em UI/UX.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavogonzaga.tsx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavogonzag) 
