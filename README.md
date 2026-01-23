@@ -1,6 +1,6 @@
 # Olá 👋, eu sou Gustavo Gonzaga!
 
-💻 **Desenvolvedor Web | JavaScript, React e Java**  
+💻 **Desenvolvedor Web | JavaScript, React e Java Springboot**  
 🇧🇷 Brasil
 
 Sou bacharel em **Sistemas de Informação**, com experiência em **desenvolvimento web** e forte base em **UI/UX e design de interfaces**. Atuo na construção de aplicações e landing pages focadas em boa experiência do usuário, organização de código e aprendizado contínuo.
